@@ -4,6 +4,8 @@ Welcome to FaithHive — a project I’m building as part of my #100DaysOfCloud 
 
 FaithHive helps churches manage their members, visitors, activities, and events — all in the cloud.
 
+
+
 Features (Planned / Work in Progress)
 
 ~ Track church members and new visitors
@@ -17,6 +19,7 @@ Features (Planned / Work in Progress)
 ~ Transparent finance tracking
 
 
+
 Tools & Technologies Used
 
 ~ Node.js – to run and build the program on my computer
@@ -24,6 +27,7 @@ Tools & Technologies Used
 ~ VS Code – my digital workspace for writing and organizing project files
 
 ~ Git & GitHub – to save, track, and share my work online
+
 
 
 Getting Started
