@@ -1,5 +1,6 @@
 #FaithHive OS – Church Management System
-Day 1 — Setting Up the Foundation
+
+Day 1/100 Days of Cloud — Setting Up the Foundation
 
 Today, I focused on **setting up the project environment** and creating the first version of the system.
 
