@@ -1,4 +1,31 @@
-#FaithHive OS – Church & Finance Management System
+#FaithHive OS – Church Management System
+Day 1 — Setting Up the Foundation
+
+Today, I focused on **setting up the project environment** and creating the first version of the system.
+
+### What I did:
+
+1. **Installed Node.js**  
+   Node.js is a platform that allows me to run JavaScript programs on my computer.
+
+2. **Set up VS Code**  
+   VS Code is the editor where I write and organize all project files.
+
+3. **Created the first program**  
+   I wrote a simple JavaScript file that prints a message to confirm Node.js is working.
+
+4. **Connected the project to GitHub**  
+   GitHub is an online platform that stores my project, tracks changes, and lets me share my work with the world.
+
+### Why this matters
+
+By completing these steps, I now have a **working foundation** for FaithHive OS. This foundation will allow me to:
+
+- Add church members and visitors
+- Track their information automatically
+- Prepare for cloud integration on AWS
+- Expand to more features like financial tracking, announcements, and dashboards
+
 
 Day 2 of #100DaysOfCloud
 
