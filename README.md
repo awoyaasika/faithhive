@@ -1,4 +1,4 @@
-#FaithHive OS – Church & Finance Management System
+#FaithHive OS – Church Management System
 
 Day 2 of #100DaysOfCloud
 
