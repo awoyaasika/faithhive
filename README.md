@@ -105,3 +105,33 @@ Next Steps
 2.Add financial tracking: tithe and contributions management
 
 3.Implement dashboards, automated notifications, and announcements
+
+## Day 3 – System Architecture
+
+Today, I designed the architecture of FaithHive OS.
+
+FaithHive OS is built using a serverless architecture on AWS to ensure scalability, reliability, and cost efficiency.
+
+### Architecture Overview
+
+![FaithHive Architecture](./architecture.jpg)
+
+
+### How the System Works
+
+1. Users (Admins & Members) access the system through a web dashboard.
+2. The frontend is hosted using AWS Amplify.
+3. API Gateway handles incoming requests from the frontend.
+4. AWS Lambda processes the requests and runs backend logic.
+5. DynamoDB stores structured data like members, visitors, and financial records.
+6. Amazon S3 stores files such as devotional media and reports.
+7. Amazon Cognito manages authentication and secure login.
+8. Amazon SNS sends notifications such as announcements and birthday messages.
+
+### Why This Architecture?
+
+- Serverless (no server management)
+- Scalable (grows with church size)
+- Cost-efficient (pay only when used)
+- Secure (authentication with Cognito)
+
