@@ -116,7 +116,6 @@ FaithHive OS is built using a serverless architecture on AWS to ensure scalabili
 
 ![FaithHive Architecture](./architecture.jpg)
 
-
 ### How the System Works
 
 1. Users (Admins & Members) access the system through a web dashboard.
