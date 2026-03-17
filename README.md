@@ -1,6 +1,6 @@
 #FaithHive OS – Church Management System
 
-Day 1/100 Days of Cloud — Setting Up the Foundation
+##Day 1/100 Days of Cloud — Setting Up the Foundation
 
 Today, I focused on **setting up the project environment** and creating the first version of the system.
 
@@ -28,7 +28,7 @@ By completing these steps, I now have a **working foundation** for FaithHive OS.
 - Expand to more features like financial tracking, announcements, and dashboards
 
 
-Day 2 of #100DaysOfCloud
+##Day 2 of #100DaysOfCloud
 
 ##FaithHive OS is a cloud-ready system designed to help churches manage members, visitors, and financial data efficiently. This project is part of my 100-day learning journey into cloud computing, Node.js, and GitHub.
 
