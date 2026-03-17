@@ -1,4 +1,4 @@
-FaithHive OS – Church Management System
+#### FaithHive OS – Church Management System
 
 ## Day 1/100 Days of Cloud — Setting Up the Foundation
 
