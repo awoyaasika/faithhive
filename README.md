@@ -1,6 +1,6 @@
-#FaithHive OS – Church Management System
+FaithHive OS – Church Management System
 
-##Day 1/100 Days of Cloud — Setting Up the Foundation
+## Day 1/100 Days of Cloud — Setting Up the Foundation
 
 Today, I focused on **setting up the project environment** and creating the first version of the system.
 
@@ -28,11 +28,11 @@ By completing these steps, I now have a **working foundation** for FaithHive OS.
 - Expand to more features like financial tracking, announcements, and dashboards
 
 
-##Day 2 of #100DaysOfCloud
+## Day 2 of #100DaysOfCloud
 
-##FaithHive OS is a cloud-ready system designed to help churches manage members, visitors, and financial data efficiently. This project is part of my 100-day learning journey into cloud computing, Node.js, and GitHub.
+FaithHive OS is a cloud-ready system designed to help churches manage members, visitors, and financial data efficiently. This project is part of my 100-day learning journey into cloud computing, Node.js, and GitHub.
 
-##What I Did Today (Day 2)
+## What I Did Today (Day 2)
 1️⃣ Creating Members and Visitors Lists
 
 I set up arrays (lists) in Node.js to store:
@@ -45,9 +45,9 @@ I set up arrays (lists) in Node.js to store:
 
 -Date joined / visit date
 
-##These lists are the foundation of the system, allowing us to store all member and visitor data in one place.
+## These lists are the foundation of the system, allowing us to store all member and visitor data in one place.
 
-#Note: I plan to add email addresses and birthdays later for automated messages and greetings.
+### Note: I plan to add email addresses and birthdays later for automated messages and greetings.
 
 let members = [];
 let visitors = [];
