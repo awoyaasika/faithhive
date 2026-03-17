@@ -45,9 +45,9 @@ I set up arrays (lists) in Node.js to store:
 
 -Date joined / visit date
 
-## These lists are the foundation of the system, allowing us to store all member and visitor data in one place.
+ These lists are the foundation of the system, allowing us to store all member and visitor data in one place.
 
-### Note: I plan to add email addresses and birthdays later for automated messages and greetings.
+Note: I plan to add email addresses and birthdays later for automated messages and greetings.
 
 let members = [];
 let visitors = [];
@@ -61,7 +61,7 @@ let visitorList = [
   { name: "Agnes Lartey", phone: "+233242045327", visitDate: "2026-03-16", contactMethod: "WhatsApp" },
 ];
 
-2️⃣ Automating Member & Visitor Addition
+## 2️⃣ Automating Member & Visitor Addition
 
 Instead of adding each member one by one, I wrote functions to automatically add all members and visitors from the lists:
 
@@ -81,7 +81,7 @@ for (let person of visitorList) addVisitor(person.name, person.phone, person.vis
 Why:
 This makes the system more efficient and scalable, so it can handle growing numbers of members and visitors without manual work.
 
-3️⃣ Checking That It Works
+## 3️⃣ Checking That It Works
 
 I ran the program in Node.js to verify that all data is correctly stored:
 
@@ -98,7 +98,7 @@ Visitors: [
   { name: 'Agnes Lartey', phone: '+233242045327', visitDate: '2026-03-16' }
 ]
 
-Next Steps
+# Next Steps
 
 1.Connect FaithHive OS to AWS Cloud for remote access and scalability
 
